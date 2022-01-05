@@ -1,7 +1,7 @@
 # PlayerClass
 a very simple 2D Player Class written in Python using Pygame (Pygame.org)
 
-The Project is a basic Pygame Player Class which includes movement and drawing the Player.
+The project is a basic design pattern for a player class that includes player movement and drawing.
 
 The Project could be used as the basic movement system in games like Platformers.
 
